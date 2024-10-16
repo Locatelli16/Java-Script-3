@@ -1,4 +1,4 @@
-let valorContador = 0;
+let valorContador = 350;
 
 function incrementar() {
     valorContador ++;
